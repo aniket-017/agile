@@ -1,0 +1,33 @@
+.service-details {
+    margin-top: 20px;
+  }
+  
+  .service-details h2 {
+    margin-bottom: 20px;
+  }
+  
+  .service-details h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .key-service h4 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .key-service ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .service-image {
+    width: 100%;
+    height: auto;
+    margin-top: 150px;
+    opacity: 50;
+  }
+  
+  
+  
+  
